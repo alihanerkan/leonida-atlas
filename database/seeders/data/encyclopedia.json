@@ -1,0 +1,261 @@
+[
+  {
+    "key": "cheetah-classic", "type": "vehicle", "verification": "reported", "confidence": "medium", "featured": true, "sort": 0, "art": "car-sports",
+    "vehicle": {"manufacturer": "Grotti", "model": "Cheetah (classic)", "vehicle_class": "sports", "body_style": "wedge", "real_world_inspiration": "Ferrari Testarossa", "inspiration_verification": "strong_evidence", "stats_verification": "unknown", "first_seen": "Trailer 1"},
+    "sources": {"yt_t1": "Wedge-shaped sports car visible in Trailer 1.", "thedrive_t2": "Automotive press coverage of identified cars."},
+    "tags": ["returning", "sports-car"],
+    "t": {"en": {"title": "Cheetah (Classic)", "slug": "cheetah-classic",
+      "summary": "A wedge-shaped, Testarossa-style sports car spotted in Trailer 1, widely read as the return of Vice City's classic Cheetah.",
+      "body": "Coverage of Trailer 1 identified a Testarossa-inspired sports car, the same visual lineage as the Cheetah from 2002's Vice City.\n\nThe model name and manufacturer badge come from community and press identification, not an official vehicle list. Leonida Atlas does not publish performance figures until they can be measured in the released game.",
+      "fields": {"acquisition": "Unknown until release.", "customization": "Unknown until release."}}}
+  },
+  {
+    "key": "declasse-tulip", "type": "vehicle", "verification": "reported", "confidence": "medium", "featured": true, "sort": 1, "art": "car-muscle",
+    "vehicle": {"manufacturer": "Declasse", "model": "Tulip", "vehicle_class": "muscle", "body_style": "muscle", "stats_verification": "unknown", "first_seen": "Trailer 2"},
+    "sources": {"traxion_t2": "Names the orange Declasse Tulip as the most prominent Trailer 2 car.", "yt_t2": "Orange muscle car driven by Jason and Lucia."},
+    "tags": ["muscle-car", "protagonists"],
+    "t": {"en": {"title": "Declasse Tulip", "slug": "declasse-tulip",
+      "summary": "The orange muscle car Jason and Lucia drive throughout Trailer 2, identified by the community as a Declasse Tulip.",
+      "body": "The orange muscle car is the most prominent vehicle in Trailer 2, carrying Jason and Lucia through several scenes.\n\nIts identification as a Declasse Tulip comes from community frame analysis reported by gaming press. Its real-world inspiration is debated and is left blank here.",
+      "fields": {"acquisition": "Unknown until release.", "customization": "Unknown until release."}}}
+  },
+  {
+    "key": "vapid-pickup", "type": "vehicle", "verification": "reported", "confidence": "medium", "sort": 2, "art": "car-pickup",
+    "vehicle": {"manufacturer": "Vapid", "model": "Unidentified pickup", "vehicle_class": "truck", "body_style": "pickup", "real_world_inspiration": "Ford F-150 (grille resemblance)", "inspiration_verification": "theory", "stats_verification": "unknown", "first_seen": "Trailer 2"},
+    "sources": {"traxion_t2": "Notes a modified Vapid-badged pickup with an F-150-like grille."},
+    "tags": ["truck"],
+    "t": {"en": {"title": "Vapid Pickup (unidentified model)", "slug": "vapid-pickup",
+      "summary": "A lifted, modified Vapid-badged pickup that appears near the start of Trailer 2.",
+      "body": "Press coverage points to Vapid badging on a modified full-size pickup in Trailer 2, with a grille resembling the Ford F-150. The specific model name has not been confirmed.",
+      "fields": {"acquisition": "Unknown until release."}}}
+  },
+  {
+    "key": "airboat", "type": "vehicle", "region": "grassrivers", "verification": "strong_evidence", "confidence": "medium", "sort": 3, "art": "boat-airboat",
+    "vehicle": {"vehicle_class": "boat", "body_style": "airboat", "real_world_inspiration": "Everglades airboats", "inspiration_verification": "strong_evidence", "stats_verification": "unknown", "first_seen": "Trailer 1"},
+    "sources": {"yt_t1": "Swamp boat footage in Grassrivers-style wetlands."},
+    "tags": ["boat", "wetlands"],
+    "t": {"en": {"title": "Airboat", "slug": "airboat",
+      "summary": "Flat-bottomed, fan-driven swamp boats suited to Grassrivers' shallow channels.",
+      "body": "Wetland footage shows fan-driven boats skimming shallow water, the classic way to cross Everglades-style swamps.\n\nThe in-game name and manufacturer are not known, so this entry describes the vehicle type.",
+      "fields": {"acquisition": "Unknown until release."}}}
+  },
+  {
+    "key": "seashark", "type": "vehicle", "region": "vice-city", "verification": "reported", "confidence": "low", "sort": 4, "art": "boat-jetski",
+    "vehicle": {"manufacturer": "Speedophile", "model": "Seashark", "vehicle_class": "boat", "body_style": "jetski", "stats_verification": "unknown", "first_seen": "Trailer 1"},
+    "sources": {"wiki": "Context on vehicles in trailers.", "thedrive_t2": "Coverage of watercraft in trailers."},
+    "tags": ["boat", "returning"],
+    "t": {"en": {"title": "Speedophile Seashark", "slug": "speedophile-seashark",
+      "summary": "A personal watercraft seen around Vice City's waters, identified by fans as the returning Seashark.",
+      "body": "Personal watercraft appear in beach and marina shots. Fan lists identify them as the Speedophile Seashark from GTA V, which would make it a returning vehicle.\n\nThe identification is low-confidence until official confirmation.",
+      "fields": {}}}
+  },
+  {
+    "key": "western-nightblade", "type": "vehicle", "verification": "reported", "confidence": "low", "sort": 5, "art": "motorcycle",
+    "vehicle": {"manufacturer": "Western", "model": "Nightblade", "vehicle_class": "motorcycle", "body_style": "cruiser", "stats_verification": "unknown", "first_seen": "Trailer 1"},
+    "sources": {"wiki": "Context on vehicles in trailers."},
+    "tags": ["motorcycle", "returning"],
+    "t": {"en": {"title": "Western Nightblade", "slug": "western-nightblade",
+      "summary": "A cruiser-style motorcycle fans identified in Trailer 1 as the returning Western Nightblade.",
+      "body": "Cruiser motorcycles appear in Trailer 1. Fan identification names the Western Nightblade, a bike from earlier entries.\n\nThe identification is low-confidence and unconfirmed.",
+      "fields": {}}}
+  },
+  {
+    "key": "handguns", "type": "weapon", "verification": "strong_evidence", "confidence": "high", "sort": 0, "art": "weapon",
+    "weapon": {"weapon_class": "handgun", "stats_verification": "unknown", "first_seen": "Trailer 1"},
+    "sources": {"yt_t1": "Robbery scenes show the protagonists with handguns.", "yt_t2": "Further armed scenes."},
+    "tags": ["weapon"],
+    "t": {"en": {"title": "Handguns", "slug": "handguns",
+      "summary": "Pistols seen in the protagonists' robbery scenes. Specific models, stats and attachments are not yet known.",
+      "body": "Both main trailers show Jason and Lucia carrying handguns during robberies. Specific in-game models, damage values, attachments and acquisition methods have not been published.\n\nLeonida Atlas will add individual weapon records with measured stats after release.",
+      "fields": {"acquisition": "Unknown until release.", "attachments": "Unknown until release."}}}
+  },
+  {
+    "key": "story-premise", "type": "mission", "verification": "official", "confidence": "high", "featured": true, "sort": 0, "art": "mission", "spoiler": "minor",
+    "mission": {"mission_type": "story_arc", "missable": false},
+    "sources": {"rs_vi": "Official blurb: a criminal conspiracy stretching across Leonida.", "godisageek_launch": "Launch trailer: a robbery goes wrong.", "wiki": "Summarises the failed-heist premise."},
+    "tags": ["story"],
+    "t": {"en": {"title": "Story Premise: A Robbery Gone Wrong", "slug": "story-premise",
+      "summary": "The officially disclosed setup: a job goes wrong, and Jason and Lucia are drawn into a criminal conspiracy that stretches across Leonida.",
+      "body": "Rockstar's official blurb says Jason and Lucia have always known the deck is stacked against them. When an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy that stretches across Leonida.\n\nThe October 2026 launch trailer reinforces this premise. Individual mission names, objectives and walkthroughs will be added after release on 19 November 2026.",
+      "fields": {"objectives": ["Mission list not yet published."], "rewards": "Unknown until release.", "prerequisites": "None known."}}}
+  },
+  {
+    "key": "keys-shakedowns", "type": "mission", "region": "leonida-keys", "verification": "official", "confidence": "medium", "sort": 1, "art": "mission", "spoiler": "minor",
+    "mission": {"mission_type": "story_arc", "missable": false},
+    "sources": {"rs_vi": "Brian Heder's profile: Jason helps with local shakedowns in exchange for rent."},
+    "tags": ["story", "leonida-keys"],
+    "t": {"en": {"title": "Story Thread: Shakedowns for Brian", "slug": "keys-shakedowns",
+      "summary": "Jason's starting arrangement in the Keys: free rent from Brian Heder in exchange for help with local shakedowns.",
+      "body": "Official profiles establish that Jason lives rent-free on Brian Heder's property as long as he helps with local shakedowns.\n\nWhether this becomes playable missions is not confirmed. This entry tracks the story thread and will link to specific missions after release.",
+      "fields": {"objectives": ["Not yet published."], "rewards": "Unknown."}}}
+  },
+  {
+    "key": "tommy-vercetti-nod", "type": "mystery", "region": "vice-city", "verification": "theory", "confidence": "low", "featured": true, "sort": 0, "art": "mystery",
+    "sources": {"opencritic_vercetti": "Reports a possible Tommy Vercetti callback in trailer footage.", "denofgeek_eggs": "Broader catalogue of trailer easter eggs."},
+    "tags": ["easter-egg", "gta-vice-city"],
+    "t": {"en": {"title": "A Nod to Tommy Vercetti?", "slug": "tommy-vercetti-nod",
+      "summary": "Fans spotted a background detail that may reference Tommy Vercetti, the protagonist of GTA: Vice City.",
+      "body": "Press outlets have reported a background detail that fans read as a callback to Tommy Vercetti, the protagonist of the 2002 Vice City.\n\nIt is an interpretation of a brief background shot, so Leonida Atlas classifies it as a theory.",
+      "fields": {"evidence": "A brief background detail in trailer footage.", "unknowns": "Whether the detail is intentional, and whether Vercetti is referenced in-game.", "steps": ["Watch the trailer scenes cited by the sources.", "Compare with GTA: Vice City iconography."]}}}
+  },
+  {
+    "key": "everett-morgan-red-dead", "type": "mystery", "verification": "theory", "confidence": "low", "sort": 1, "art": "mystery",
+    "sources": {"gtaboom_everett": "Community report of a Red Dead Redemption-related name in a trailer."},
+    "tags": ["easter-egg", "red-dead"],
+    "t": {"en": {"title": "Red Dead Redemption Cross-Reference", "slug": "red-dead-cross-reference",
+      "summary": "Community posts claim a trailer shows a name linked to the Morgan family of Red Dead Redemption 2.",
+      "body": "A community site reported spotting an 'Everett Morgan' reference in trailer footage and linked it to the Morgan surname from Red Dead Redemption 2.\n\nThe connection is speculative. A shared surname is not evidence of a narrative link.",
+      "fields": {"evidence": "A name visible in trailer footage.", "unknowns": "Any intended connection to Arthur Morgan."}}}
+  },
+  {
+    "key": "cod-parody-shirt", "type": "mystery", "verification": "reported", "confidence": "medium", "sort": 2, "art": "mystery",
+    "sources": {"dexerto_cod": "Reports a Call of Duty: Black Ops parody on clothing."},
+    "tags": ["easter-egg", "parody"],
+    "t": {"en": {"title": "Call of Duty Parody Apparel", "slug": "call-of-duty-parody-apparel",
+      "summary": "A character's shirt appears to parody Call of Duty: Black Ops, continuing a running joke from GTA V.",
+      "body": "Dexerto reported clothing in a trailer that parodies Call of Duty: Black Ops, echoing the shooter parodies seen in GTA V.\n\nThe visual is in the footage. That it is a deliberate parody is reported by press.",
+      "fields": {"evidence": "Graphic on clothing in trailer footage."}}}
+  },
+  {
+    "key": "florida-viral-moments", "type": "mystery", "region": "vice-city", "verification": "strong_evidence", "confidence": "high", "sort": 3, "art": "mystery",
+    "sources": {"yt_t1": "Social-media-style clips in Trailer 1.", "miaminewtimes": "Catalogue of real-life South Florida references.", "denofgeek_eggs": "Discussion of real-world references."},
+    "tags": ["easter-egg", "satire", "social-media"],
+    "t": {"en": {"title": "Parodies of Viral Florida Moments", "slug": "viral-florida-moments",
+      "summary": "Trailer 1's in-universe social-media clips riff on real viral videos from South Florida.",
+      "body": "Trailer 1 intercuts vertical, social-media-style clips that closely resemble viral videos associated with Florida. Local press catalogued many of these real-world references.\n\nThe clips are clearly visible in official footage. The specific real-world inspirations are press interpretations.",
+      "fields": {"evidence": "Clips in Trailer 1.", "unknowns": "How much of this satire carries into gameplay."}}}
+  },
+  {
+    "key": "delay-2027-claims", "type": "mystery", "verification": "rumor", "confidence": "low", "sort": 4, "art": "rumor",
+    "sources": {"ibtimes_delay": "Reports 2027 delay claims as unconfirmed; the date remains 19 November 2026.", "rs_vi": "Official site still lists 19 November 2026."},
+    "tags": ["rumor", "release-date"],
+    "t": {"en": {"title": "Rumour: Delay to 2027", "slug": "rumour-delay-to-2027",
+      "summary": "Claims of a third delay into 2027 circulated in late October 2026. No official source supports them.",
+      "body": "In late October 2026, claims spread that GTA VI would slip to 2027. Press reviewing the claims found no official announcement, and Rockstar's site and retail listings still show 19 November 2026.\n\nLeonida Atlas keeps this as a rumour and will update it if anything official changes.",
+      "fields": {"evidence": "Unsourced social posts; no official statement.", "unknowns": "None until an official statement."}}}
+  },
+  {
+    "key": "ai-fake-screenshots", "type": "mystery", "verification": "debunked", "confidence": "high", "sort": 5, "art": "debunked",
+    "sources": {"pulse_ai_fakes": "Reports fans circulating AI-generated fake GTA 6 screenshots."},
+    "tags": ["debunked", "fakes"],
+    "t": {"en": {"title": "Debunked: AI-Generated 'Leaked Screenshots'", "slug": "debunked-ai-screenshots",
+      "summary": "Viral 'GTA 6 screenshots' created with image generators are not real game footage.",
+      "body": "Image generators have been used to make convincing fake 'GTA 6 screenshots' that spread as leaks. Press has documented the trend, and Take-Two has pursued at least one account over AI imagery built from Rockstar material.\n\nLeonida Atlas only treats imagery from Rockstar's official channels as official visual evidence.",
+      "fields": {"evidence": "Press reporting on AI-generated fakes.", "how_to_check": ["Trace the image to an official Rockstar channel.", "Be sceptical of images without a primary source."]}}}
+  },
+  {
+    "key": "american-alligator", "type": "animal", "region": "grassrivers", "verification": "strong_evidence", "confidence": "high", "featured": true, "sort": 0, "art": "animal-gator",
+    "sources": {"yt_t1": "Alligator scenes in Trailer 1.", "sportskeeda_animals": "Fan-compiled wildlife list.", "videogamer_wildlife": "Wildlife coverage."},
+    "tags": ["reptile", "wetlands"],
+    "t": {"en": {"title": "American Alligator", "slug": "american-alligator",
+      "summary": "Leonida's signature predator, seen in the wetlands and even wandering into a convenience store.",
+      "body": "Alligators are the most prominent wildlife in the trailers. They appear in swamp channels, and in one memorable Trailer 1 moment a gator wanders into a convenience store.\n\nTheir behaviour toward the player, and whether they can be hunted, has not been confirmed.",
+      "fields": {"habitat": "Wetlands, canals, suburban water.", "behavior": "Observed in footage only; gameplay behaviour unconfirmed."}}}
+  },
+  {
+    "key": "american-flamingo", "type": "animal", "region": "grassrivers", "verification": "strong_evidence", "confidence": "high", "sort": 1, "art": "animal-flamingo",
+    "sources": {"yt_t1": "Flock of flamingos in a lake scene.", "sportskeeda_animals": "Fan-compiled wildlife list."},
+    "tags": ["bird", "wetlands"],
+    "t": {"en": {"title": "American Flamingo", "slug": "american-flamingo",
+      "summary": "A large flock of pink flamingos wades through a lake in Trailer 1.",
+      "body": "Trailer 1 includes a lake scene with a large flock of flamingos, alongside ducks. Exact locations and in-game interactions are unknown.",
+      "fields": {"habitat": "Shallow lakes and lagoons.", "behavior": "Flocking (footage)."}}}
+  },
+  {
+    "key": "brown-pelican", "type": "animal", "region": "leonida-keys", "verification": "reported", "confidence": "medium", "sort": 2, "art": "animal-pelican",
+    "sources": {"sportskeeda_animals": "Fan list includes pelicans flying in formation."},
+    "tags": ["bird", "coast"],
+    "t": {"en": {"title": "Brown Pelican", "slug": "brown-pelican",
+      "summary": "Pelicans flying in formation along the coast, reported in fan wildlife lists.",
+      "body": "Fan-compiled lists report brown pelicans flying in formation over coastal scenes. Leonida Atlas records the sighting as reported.",
+      "fields": {"habitat": "Coastlines and marinas."}}}
+  },
+  {
+    "key": "wading-birds", "type": "animal", "region": "grassrivers", "verification": "reported", "confidence": "medium", "sort": 3, "art": "animal-heron",
+    "sources": {"sportskeeda_animals": "Fan lists include herons and cranes."},
+    "tags": ["bird", "wetlands"],
+    "t": {"en": {"title": "Herons and Wading Birds", "slug": "herons-and-wading-birds",
+      "summary": "Herons, cranes and similar wading birds reported in wetland footage.",
+      "body": "Fan wildlife lists include herons and cranes in wetland scenes. Species-level identification from brief shots is uncertain.",
+      "fields": {"habitat": "Wetlands."}}}
+  },
+  {
+    "key": "dolphin", "type": "animal", "region": "leonida-keys", "verification": "reported", "confidence": "low", "sort": 4, "art": "animal-dolphin",
+    "sources": {"sportskeeda_animals": "Fan lists include dolphins."},
+    "tags": ["marine"],
+    "t": {"en": {"title": "Dolphin", "slug": "dolphin",
+      "summary": "Dolphins appear in fan-compiled lists of trailer wildlife.",
+      "body": "Fan-compiled lists include dolphins in coastal footage. The sighting is low-confidence until confirmed.",
+      "fields": {"habitat": "Coastal waters."}}}
+  },
+  {
+    "key": "scuba-diving", "type": "activity", "region": "leonida-keys", "verification": "reported", "confidence": "medium", "sort": 0, "art": "activity-dive",
+    "attributes": {"kind": "activity"},
+    "sources": {"ign_gameplay": "Reports scuba diving among free-roam activities.", "wiki": "Lists scuba diving among activities."},
+    "tags": ["activity", "water"],
+    "t": {"en": {"title": "Scuba Diving", "slug": "scuba-diving",
+      "summary": "Underwater exploration reported as a free-roam activity following the August 2026 Extended Look.",
+      "body": "Coverage of the Extended Look lists scuba diving among the game's free-roam activities. Locations, rewards and collectibles tied to diving are unknown.",
+      "fields": {"details": "Reported activity; specifics unknown."}}}
+  },
+  {
+    "key": "skydiving", "type": "activity", "verification": "reported", "confidence": "medium", "sort": 1, "art": "activity-sky",
+    "attributes": {"kind": "activity"},
+    "sources": {"ign_gameplay": "Reports skydiving among activities.", "wiki": "Lists skydiving."},
+    "tags": ["activity"],
+    "t": {"en": {"title": "Skydiving", "slug": "skydiving",
+      "summary": "Skydiving is reported among the free-roam activities shown in the Extended Look.",
+      "body": "Press coverage of the August 2026 Extended Look lists skydiving among available activities.",
+      "fields": {"details": "Reported activity; specifics unknown."}}}
+  },
+  {
+    "key": "basketball", "type": "activity", "region": "vice-city", "verification": "reported", "confidence": "medium", "sort": 2, "art": "activity-ball",
+    "attributes": {"kind": "activity"},
+    "sources": {"ign_gameplay": "Reports basketball and wrestling among activities.", "wiki": "Lists basketball and wrestling."},
+    "tags": ["activity", "sport"],
+    "t": {"en": {"title": "Basketball and Wrestling", "slug": "basketball-and-wrestling",
+      "summary": "Sports activities reported following the Extended Look.",
+      "body": "Coverage lists basketball and wrestling among free-roam activities. How they work is not yet known.",
+      "fields": {"details": "Reported activity; specifics unknown."}}}
+  },
+  {
+    "key": "fitness-and-body", "type": "activity", "verification": "reported", "confidence": "medium", "sort": 3, "art": "activity-gym",
+    "attributes": {"kind": "mechanic"},
+    "sources": {"ign_gameplay": "Reports exercise, weight changes and sleep-deprivation effects.", "wiki": "Summarises weight and sleep mechanics."},
+    "tags": ["mechanic"],
+    "t": {"en": {"title": "Fitness, Weight and Sleep", "slug": "fitness-weight-and-sleep",
+      "summary": "Reports describe exercise, character weight changes and visible effects of going without sleep.",
+      "body": "Following the Extended Look, press reported that characters can exercise, that their weight can change, and that long stretches without sleep have visible effects.\n\nThese are reported mechanics. Exact rules are unknown until release.",
+      "fields": {"details": "Reported mechanic."}}}
+  },
+  {
+    "key": "criminal-profile", "type": "activity", "verification": "reported", "confidence": "medium", "sort": 4, "art": "activity-profile",
+    "attributes": {"kind": "mechanic"},
+    "sources": {"wiki": "Describes a 'Criminal Profile' reputation system compared to RDR2's honour system.", "ign_gameplay": "Gameplay details."},
+    "tags": ["mechanic"],
+    "t": {"en": {"title": "Criminal Profile Reputation", "slug": "criminal-profile",
+      "summary": "A reported reputation system that tracks the protagonists' notoriety, compared to Red Dead Redemption 2's honour system.",
+      "body": "Reports describe a 'Criminal Profile' system that tracks reputation in a way compared to RDR2's honour system. How it affects missions, police or NPCs is not yet documented.",
+      "fields": {"details": "Reported mechanic."}}}
+  },
+  {
+    "key": "snapmatic", "type": "activity", "verification": "reported", "confidence": "medium", "sort": 5, "art": "activity-phone",
+    "attributes": {"kind": "mechanic"},
+    "sources": {"wiki": "Reports the return of the Snapmatic app from GTA V."},
+    "tags": ["mechanic", "returning"],
+    "t": {"en": {"title": "Snapmatic Returns", "slug": "snapmatic",
+      "summary": "The in-game photo and social media app from GTA V is reported to return.",
+      "body": "Snapmatic, the photo app from GTA V, is reported to return, fitting the social-media themes of the trailers.",
+      "fields": {"details": "Reported mechanic."}}}
+  },
+  {
+    "key": "radio-and-podcasts", "type": "activity", "verification": "reported", "confidence": "medium", "sort": 6, "art": "activity-radio",
+    "attributes": {"kind": "media"},
+    "sources": {"wiki": "Lists returning stations (V-Rock, Flash FM, Emotion 98.3) and podcasts playable outside vehicles.", "rs_vi": "Official site lists in-game radio, soundtrack and score."},
+    "tags": ["music", "returning"],
+    "t": {"en": {"title": "Radio Stations and Podcasts", "slug": "radio-and-podcasts",
+      "summary": "In-game radio returns, reportedly including V-Rock, Flash FM and Emotion 98.3, plus podcasts that can be played outside vehicles.",
+      "body": "Rockstar's site highlights in-game radio, soundtrack and score. Reported details include returning Vice City stations such as V-Rock, Flash FM and Emotion 98.3, and podcasts playable outside vehicles for the first time in the series.\n\nThe French duo Justice is reported as composer of the original score.",
+      "fields": {"details": "Station list reported; full lineup unconfirmed."}}}
+  }
+]

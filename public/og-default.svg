@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07060b"/><stop offset="0.55" stop-color="#2a0d33"/><stop offset="1" stop-color="#5a1640"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd27a"/><stop offset="0.45" stop-color="#ff8a3d"/><stop offset="1" stop-color="#ff2e88"/>
+    </linearGradient>
+    <clipPath id="sc"><circle cx="880" cy="380" r="210"/></clipPath>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <g clip-path="url(#sc)">
+    <rect x="660" y="160" width="440" height="440" fill="url(#sun)"/>
+    <g fill="#2a0d33"><rect x="660" y="400" width="440" height="8"/><rect x="660" y="430" width="440" height="12"/><rect x="660" y="466" width="440" height="16"/><rect x="660" y="508" width="440" height="22"/></g>
+  </g>
+  <rect y="520" width="1200" height="110" fill="#07060b"/>
+  <rect x="64" y="560" width="160" height="4" fill="#34b6ff"/>
+  <text x="64" y="250" font-family="Anton, Impact, 'Arial Narrow Bold', sans-serif" font-size="128" fill="#f5efe6" letter-spacing="2">LEONIDA</text>
+  <text x="64" y="380" font-family="Anton, Impact, 'Arial Narrow Bold', sans-serif" font-size="128" fill="#ff2e88" letter-spacing="2">ATLAS</text>
+  <text x="64" y="440" font-family="Inter, Helvetica, Arial, sans-serif" font-size="30" fill="#c9c3d6">Independent GTA VI encyclopedia &amp; world atlas</text>
+  <text x="64" y="604" font-family="Inter, Helvetica, Arial, sans-serif" font-size="18" fill="#7d768c" letter-spacing="4">FAN PROJECT · NOT AFFILIATED WITH ROCKSTAR GAMES</text>
+</svg>

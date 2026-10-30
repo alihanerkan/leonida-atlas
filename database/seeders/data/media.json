@@ -1,0 +1,239 @@
+[
+  {
+    "key": "trailer-1", "type": "trailer", "verification": "official", "confidence": "high", "featured": true, "sort": 0, "art": "trailer", "event_date": "2023-12-04",
+    "video": {"provider": "youtube", "id": "QdBZY2fkU-0", "title": "Grand Theft Auto VI Trailer 1"},
+    "attributes": {"music": "Tom Petty — Love Is a Long Road", "duration": "1:31"},
+    "sources": {"yt_t1": "Official upload.", "kotaku_t1leak": "Leaked early; Rockstar published the official version in response.", "wiki": "Release date, view counts and context."},
+    "tags": ["trailer", "official"],
+    "t": {
+      "en": {"title": "Trailer 1", "slug": "trailer-1",
+        "summary": "The December 2023 reveal of Leonida, Vice City and Lucia, set to Tom Petty's 'Love Is a Long Road'.",
+        "body": "Rockstar released the first trailer on 4 December 2023, earlier than planned after a low-quality copy leaked. It confirmed the title, the return to Vice City, the state of Leonida and the then-planned 2025 release window.\n\nWikipedia reports more than 100 million views within two days.",
+        "fields": {"scenes": [
+          {"scene": "Lucia in custody", "note": "Opens with Lucia speaking to a corrections officer, introducing Leonida Penitentiary.", "verification": "official"},
+          {"scene": "Vice City montage", "note": "Beaches, nightlife, high-rises and causeways.", "verification": "official"},
+          {"scene": "Social-media clips", "note": "Vertical clips parody viral Florida moments.", "verification": "strong_evidence"},
+          {"scene": "Gator in a store", "note": "An alligator wanders into a convenience store.", "verification": "official"},
+          {"scene": "Couple robbery", "note": "Jason and Lucia rob a store together.", "verification": "official"},
+          {"scene": "Wetlands", "note": "Swamp boats and wildlife suggest the Grassrivers region.", "verification": "strong_evidence"}
+        ]}},
+      "tr": {"title": "Fragman 1", "slug": "fragman-1",
+        "summary": "Aralık 2023'te Leonida, Vice City ve Lucia'yı tanıtan, Tom Petty'nin 'Love Is a Long Road' şarkısı eşliğindeki ilk fragman.",
+        "body": "Rockstar ilk fragmanı, düşük kaliteli bir kopyanın sızdırılması üzerine planlanandan erken, 4 Aralık 2023'te yayımladı. Fragman oyunun adını, Vice City'ye dönüşü, Leonida eyaletini ve o dönem planlanan 2025 çıkış aralığını doğruladı.\n\nWikipedia'ya göre fragman iki gün içinde 100 milyonu aşkın izlenme aldı.",
+        "fields": {"scenes": [
+          {"scene": "Gözaltındaki Lucia", "note": "Lucia'nın bir gardiyanla konuşmasıyla açılıyor ve Leonida Hapishanesi'ni tanıtıyor.", "verification": "official"},
+          {"scene": "Vice City montajı", "note": "Plajlar, gece hayatı, gökdelenler ve köprü yolları.", "verification": "official"},
+          {"scene": "Sosyal medya klipleri", "note": "Dikey klipler, Florida'nın viral anlarını hicvediyor.", "verification": "strong_evidence"},
+          {"scene": "Marketteki timsah", "note": "Bir timsah markete giriyor.", "verification": "official"},
+          {"scene": "Çiftin soygunu", "note": "Jason ve Lucia birlikte bir dükkân soyuyor.", "verification": "official"},
+          {"scene": "Sulak alanlar", "note": "Bataklık tekneleri ve yaban hayatı Grassrivers bölgesine işaret ediyor.", "verification": "strong_evidence"}
+        ]}},
+      "es": {"title": "Tráiler 1", "slug": "trailer-1",
+        "summary": "La presentación de diciembre de 2023 de Leonida, Vice City y Lucia, con 'Love Is a Long Road' de Tom Petty.",
+        "body": "Rockstar publicó el primer tráiler el 4 de diciembre de 2023, antes de lo previsto tras filtrarse una copia de baja calidad. Confirmó el título, el regreso a Vice City, el estado de Leonida y la ventana de lanzamiento prevista entonces para 2025.\n\nSegún Wikipedia, superó los 100 millones de visualizaciones en dos días.",
+        "fields": {"scenes": [
+          {"scene": "Lucia bajo custodia", "note": "Comienza con Lucia hablando con una funcionaria de prisiones.", "verification": "official"},
+          {"scene": "Montaje de Vice City", "note": "Playas, vida nocturna, rascacielos y calzadas.", "verification": "official"},
+          {"scene": "Clips de redes sociales", "note": "Parodias de momentos virales de Florida.", "verification": "strong_evidence"},
+          {"scene": "Caimán en una tienda", "note": "Un caimán entra en una tienda.", "verification": "official"},
+          {"scene": "Robo en pareja", "note": "Jason y Lucia atracan una tienda.", "verification": "official"},
+          {"scene": "Humedales", "note": "Barcas y fauna sugieren la región de Grassrivers.", "verification": "strong_evidence"}
+        ]}},
+      "zh-CN": {"title": "预告片 1", "slug": "trailer-1",
+        "summary": "2023 年 12 月首次揭晓莱奥尼达、罪恶都市与露西娅，配乐为 Tom Petty 的《Love Is a Long Road》。",
+        "body": "由于低画质版本提前泄露，Rockstar 于 2023 年 12 月 4 日提前发布了第一部预告片。预告确认了游戏名称、重返罪恶都市、莱奥尼达州，以及当时计划的 2025 年发售窗口。\n\n据维基百科报道，该预告两天内播放量超过 1 亿次。",
+        "fields": {"scenes": [
+          {"scene": "羁押中的露西娅", "note": "以露西娅与狱警交谈开场，引出莱奥尼达监狱。", "verification": "official"},
+          {"scene": "罪恶都市剪辑", "note": "海滩、夜生活、高楼与堤道。", "verification": "official"},
+          {"scene": "社交媒体片段", "note": "竖屏片段戏仿佛罗里达的网络爆红瞬间。", "verification": "strong_evidence"},
+          {"scene": "闯进商店的短吻鳄", "note": "一条短吻鳄走进便利店。", "verification": "official"},
+          {"scene": "情侣抢劫", "note": "杰森与露西娅一同抢劫商店。", "verification": "official"},
+          {"scene": "湿地", "note": "沼泽船只与野生动物暗示草河地区。", "verification": "strong_evidence"}
+        ]}},
+      "it": {"title": "Trailer 1", "slug": "trailer-1",
+        "summary": "La presentazione di dicembre 2023 di Leonida, Vice City e Lucia, sulle note di 'Love Is a Long Road' di Tom Petty.",
+        "body": "Rockstar ha pubblicato il primo trailer il 4 dicembre 2023, in anticipo dopo la diffusione di una copia di bassa qualità. Ha confermato il titolo, il ritorno a Vice City, lo Stato di Leonida e la finestra di uscita allora prevista per il 2025.\n\nSecondo Wikipedia ha superato i 100 milioni di visualizzazioni in due giorni.",
+        "fields": {"scenes": [
+          {"scene": "Lucia in custodia", "note": "Si apre con Lucia che parla con un'agente penitenziaria.", "verification": "official"},
+          {"scene": "Montaggio di Vice City", "note": "Spiagge, vita notturna, grattacieli e strade sopraelevate.", "verification": "official"},
+          {"scene": "Clip social", "note": "Parodie di momenti virali della Florida.", "verification": "strong_evidence"},
+          {"scene": "Alligatore nel negozio", "note": "Un alligatore entra in un minimarket.", "verification": "official"},
+          {"scene": "Rapina di coppia", "note": "Jason e Lucia rapinano un negozio.", "verification": "official"},
+          {"scene": "Paludi", "note": "Barche e fauna suggeriscono la regione di Grassrivers.", "verification": "strong_evidence"}
+        ]}},
+      "fr": {"title": "Bande-annonce 1", "slug": "bande-annonce-1",
+        "summary": "La révélation de décembre 2023 du Leonida, de Vice City et de Lucia, sur « Love Is a Long Road » de Tom Petty.",
+        "body": "Rockstar a publié la première bande-annonce le 4 décembre 2023, plus tôt que prévu après la fuite d'une copie de mauvaise qualité. Elle a confirmé le titre, le retour à Vice City, l'État du Leonida et la sortie alors prévue en 2025.\n\nSelon Wikipédia, elle a dépassé les 100 millions de vues en deux jours.",
+        "fields": {"scenes": [
+          {"scene": "Lucia en détention", "note": "S'ouvre sur Lucia face à une agente pénitentiaire.", "verification": "official"},
+          {"scene": "Montage de Vice City", "note": "Plages, vie nocturne, tours et chaussées.", "verification": "official"},
+          {"scene": "Clips de réseaux sociaux", "note": "Parodies de moments viraux de Floride.", "verification": "strong_evidence"},
+          {"scene": "Alligator dans une supérette", "note": "Un alligator entre dans une supérette.", "verification": "official"},
+          {"scene": "Braquage en couple", "note": "Jason et Lucia braquent un magasin.", "verification": "official"},
+          {"scene": "Marais", "note": "Bateaux et faune suggèrent la région de Grassrivers.", "verification": "strong_evidence"}
+        ]}},
+      "ru": {"title": "Трейлер 1", "slug": "trejler-1",
+        "summary": "Первый показ Леониды, Вайс-Сити и Лусии в декабре 2023 года под песню Тома Петти «Love Is a Long Road».",
+        "body": "Rockstar выпустила первый трейлер 4 декабря 2023 года — раньше запланированного, после утечки копии низкого качества. Он подтвердил название, возвращение в Вайс-Сити, штат Леонида и планировавшийся тогда выход в 2025 году.\n\nПо данным Википедии, за два дня трейлер набрал более 100 миллионов просмотров.",
+        "fields": {"scenes": [
+          {"scene": "Лусия под стражей", "note": "Начинается с разговора Лусии с надзирательницей.", "verification": "official"},
+          {"scene": "Монтаж Вайс-Сити", "note": "Пляжи, ночная жизнь, небоскрёбы и дамбы.", "verification": "official"},
+          {"scene": "Ролики из соцсетей", "note": "Пародии на вирусные видео из Флориды.", "verification": "strong_evidence"},
+          {"scene": "Аллигатор в магазине", "note": "Аллигатор заходит в магазин.", "verification": "official"},
+          {"scene": "Ограбление вдвоём", "note": "Джейсон и Лусия грабят магазин.", "verification": "official"},
+          {"scene": "Болота", "note": "Лодки и фауна указывают на регион Грассриверс.", "verification": "strong_evidence"}
+        ]}}
+    }
+  },
+  {
+    "key": "trailer-2", "type": "trailer", "verification": "official", "confidence": "high", "featured": true, "sort": 1, "art": "trailer", "event_date": "2025-05-06",
+    "video": {"provider": "youtube", "id": "VQRLujxTm3c", "title": "Grand Theft Auto VI Trailer 2"},
+    "attributes": {"music": "The Pointer Sisters — Hot Together"},
+    "sources": {"yt_t2": "Official upload.", "wiki": "Released with a website update and 70 screenshots; record view counts.", "thedrive_t2": "Vehicle coverage."},
+    "tags": ["trailer", "official"],
+    "t": {
+      "en": {"title": "Trailer 2", "slug": "trailer-2",
+        "summary": "The May 2025 trailer that introduced the supporting cast and revealed Jason's full name, released with a major website update.",
+        "body": "Rockstar released Trailer 2 on 6 May 2025, days after announcing the move to 26 May 2026. It came with a website update introducing six supporting characters and regions such as the Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga, plus around 70 screenshots.\n\nWikipedia reports a record 475 million views across platforms within 24 hours. The trailer later won Best Game Trailer at the 2025 Golden Joystick Awards.",
+        "fields": {"scenes": [
+          {"scene": "Jason in the Keys", "note": "Jason gets far more screen time and dialogue than in Trailer 1.", "verification": "official"},
+          {"scene": "Supporting cast", "note": "Cal, Boobie, Dre'Quan, Real Dimez, Raul and Brian appear.", "verification": "official"},
+          {"scene": "Orange muscle car", "note": "Jason and Lucia drive a car fans identify as the Declasse Tulip.", "verification": "reported"},
+          {"scene": "Music-industry glimpses", "note": "Studio and strip-club scenes tie into Boobie and Dre'Quan.", "verification": "strong_evidence"}
+        ]}},
+      "tr": {"title": "Fragman 2", "slug": "fragman-2",
+        "summary": "Mayıs 2025'te yardımcı karakterleri tanıtan ve Jason'ın tam adını açıklayan, büyük bir site güncellemesiyle gelen fragman.",
+        "body": "Rockstar, 26 Mayıs 2026'ya erteleme duyurusundan birkaç gün sonra, 6 Mayıs 2025'te ikinci fragmanı yayımladı. Fragmanla birlikte altı yardımcı karakteri ve Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia ve Mount Kalaga gibi bölgeleri tanıtan bir site güncellemesi ile yaklaşık 70 ekran görüntüsü geldi.\n\nWikipedia'ya göre fragman 24 saatte platformlar genelinde rekor 475 milyon izlenmeye ulaştı ve 2025 Golden Joystick Ödülleri'nde En İyi Oyun Fragmanı seçildi.",
+        "fields": {"scenes": [
+          {"scene": "Keys'teki Jason", "note": "Jason ilk fragmana göre çok daha fazla ekranda.", "verification": "official"},
+          {"scene": "Yardımcı karakterler", "note": "Cal, Boobie, Dre'Quan, Real Dimez, Raul ve Brian görünüyor.", "verification": "official"},
+          {"scene": "Turuncu muscle car", "note": "Hayranların Declasse Tulip olarak tanımladığı araç.", "verification": "reported"},
+          {"scene": "Müzik sektörü", "note": "Stüdyo ve kulüp sahneleri Boobie ve Dre'Quan'a bağlanıyor.", "verification": "strong_evidence"}
+        ]}},
+      "es": {"title": "Tráiler 2", "slug": "trailer-2",
+        "summary": "El tráiler de mayo de 2025 que presentó al reparto secundario y reveló el nombre completo de Jason, junto a una gran actualización de la web.",
+        "body": "Rockstar publicó el Tráiler 2 el 6 de mayo de 2025, días después de anunciar el cambio al 26 de mayo de 2026. Llegó con una actualización de la web que presentaba a seis personajes secundarios y regiones como los Cayos de Leonida, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga, además de unas 70 capturas.\n\nSegún Wikipedia, logró un récord de 475 millones de visualizaciones en 24 horas y ganó el premio al Mejor Tráiler en los Golden Joystick Awards 2025.",
+        "fields": {"scenes": [
+          {"scene": "Jason en los Cayos", "note": "Jason tiene mucho más protagonismo que en el Tráiler 1.", "verification": "official"},
+          {"scene": "Reparto secundario", "note": "Aparecen Cal, Boobie, Dre'Quan, Real Dimez, Raul y Brian.", "verification": "official"},
+          {"scene": "Muscle car naranja", "note": "Identificado por fans como Declasse Tulip.", "verification": "reported"},
+          {"scene": "Industria musical", "note": "Escenas de estudio y club ligadas a Boobie y Dre'Quan.", "verification": "strong_evidence"}
+        ]}},
+      "zh-CN": {"title": "预告片 2", "slug": "trailer-2",
+        "summary": "2025 年 5 月发布的预告片，介绍了配角阵容并公布杰森的全名，同时伴随官网大更新。",
+        "body": "Rockstar 于 2025 年 5 月 6 日发布第二部预告片，就在宣布延期至 2026 年 5 月 26 日几天之后。同时上线的官网更新介绍了六位配角以及莱奥尼达群岛、草河、盖尔霍恩港、安布罗西亚和卡拉加山等地区，并附约 70 张截图。\n\n据维基百科报道，该预告在 24 小时内全平台播放量创下 4.75 亿次纪录，并获得 2025 年金摇杆奖最佳游戏预告片。",
+        "fields": {"scenes": [
+          {"scene": "群岛中的杰森", "note": "杰森的镜头和台词远多于第一部预告。", "verification": "official"},
+          {"scene": "配角登场", "note": "卡尔、布比、德雷宽、Real Dimez、劳尔和布莱恩出场。", "verification": "official"},
+          {"scene": "橙色肌肉车", "note": "粉丝认定为 Declasse Tulip。", "verification": "reported"},
+          {"scene": "音乐产业", "note": "录音室与俱乐部场景关联布比和德雷宽。", "verification": "strong_evidence"}
+        ]}},
+      "it": {"title": "Trailer 2", "slug": "trailer-2",
+        "summary": "Il trailer di maggio 2025 che ha presentato il cast di supporto e rivelato il nome completo di Jason, insieme a un grande aggiornamento del sito.",
+        "body": "Rockstar ha pubblicato il Trailer 2 il 6 maggio 2025, pochi giorni dopo aver annunciato il rinvio al 26 maggio 2026. È arrivato con un aggiornamento del sito che presentava sei personaggi secondari e regioni come Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga, oltre a circa 70 screenshot.\n\nSecondo Wikipedia ha raggiunto un record di 475 milioni di visualizzazioni in 24 ore e ha vinto il premio Miglior trailer ai Golden Joystick Awards 2025.",
+        "fields": {"scenes": [
+          {"scene": "Jason nelle Keys", "note": "Jason ha molto più spazio rispetto al Trailer 1.", "verification": "official"},
+          {"scene": "Cast di supporto", "note": "Compaiono Cal, Boobie, Dre'Quan, Real Dimez, Raul e Brian.", "verification": "official"},
+          {"scene": "Muscle car arancione", "note": "Identificata dai fan come Declasse Tulip.", "verification": "reported"},
+          {"scene": "Industria musicale", "note": "Scene di studio e club legate a Boobie e Dre'Quan.", "verification": "strong_evidence"}
+        ]}},
+      "fr": {"title": "Bande-annonce 2", "slug": "bande-annonce-2",
+        "summary": "La bande-annonce de mai 2025 qui a présenté les personnages secondaires et révélé le nom complet de Jason, avec une importante mise à jour du site.",
+        "body": "Rockstar a publié la deuxième bande-annonce le 6 mai 2025, quelques jours après avoir annoncé le report au 26 mai 2026. Elle s'accompagnait d'une mise à jour du site présentant six personnages secondaires et des régions comme les Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia et Mount Kalaga, ainsi qu'environ 70 captures d'écran.\n\nSelon Wikipédia, elle a atteint un record de 475 millions de vues en 24 heures et a remporté le prix de la meilleure bande-annonce aux Golden Joystick Awards 2025.",
+        "fields": {"scenes": [
+          {"scene": "Jason dans les Keys", "note": "Jason est bien plus présent que dans la première bande-annonce.", "verification": "official"},
+          {"scene": "Personnages secondaires", "note": "Cal, Boobie, Dre'Quan, Real Dimez, Raul et Brian apparaissent.", "verification": "official"},
+          {"scene": "Muscle car orange", "note": "Identifiée par les fans comme une Declasse Tulip.", "verification": "reported"},
+          {"scene": "Industrie musicale", "note": "Scènes de studio et de club liées à Boobie et Dre'Quan.", "verification": "strong_evidence"}
+        ]}},
+      "ru": {"title": "Трейлер 2", "slug": "trejler-2",
+        "summary": "Трейлер мая 2025 года, представивший второстепенных персонажей и полное имя Джейсона, вместе с крупным обновлением сайта.",
+        "body": "Rockstar выпустила второй трейлер 6 мая 2025 года, через несколько дней после объявления о переносе на 26 мая 2026 года. Вместе с ним вышло обновление сайта с шестью второстепенными персонажами и регионами — Леонида-Кис, Грассриверс, Порт-Геллхорн, Амброзия и Маунт-Калага, а также около 70 скриншотов.\n\nПо данным Википедии, трейлер набрал рекордные 475 миллионов просмотров за 24 часа и получил награду за лучший трейлер на Golden Joystick Awards 2025.",
+        "fields": {"scenes": [
+          {"scene": "Джейсон на островах", "note": "Джейсону уделено гораздо больше времени, чем в первом трейлере.", "verification": "official"},
+          {"scene": "Второстепенные персонажи", "note": "Появляются Кэл, Бубби, Дре'Куан, Real Dimez, Рауль и Брайан.", "verification": "official"},
+          {"scene": "Оранжевый маслкар", "note": "Фанаты определили его как Declasse Tulip.", "verification": "reported"},
+          {"scene": "Музыкальная индустрия", "note": "Сцены в студии и клубе связаны с Бубби и Дре'Куаном.", "verification": "strong_evidence"}
+        ]}}
+    }
+  },
+  {
+    "key": "extended-look", "type": "trailer", "verification": "official", "confidence": "high", "sort": 2, "art": "trailer", "event_date": "2026-08-27",
+    "attributes": {"duration": "26:48", "platform_note": "Premiered on Netflix, then YouTube and the official site"},
+    "sources": {"rs_extended": "Official Newswire announcement.", "wiki": "Netflix premiere before YouTube.", "ign_gameplay": "Gameplay details reported from the presentation."},
+    "tags": ["trailer", "official", "gameplay"],
+    "t": {"en": {"title": "An Extended Look", "slug": "an-extended-look",
+      "summary": "A roughly 27-minute in-game presentation captured on PS5, premiered on Netflix on 27 August 2026 before reaching YouTube.",
+      "body": "Rockstar premiered 'Grand Theft Auto VI: An Extended Look' on Netflix on 27 August 2026, followed by YouTube and the official site the same evening. It runs about 27 minutes and is captured from in-game PS5 footage.\n\nPress coverage of the presentation reported free-roam activities such as scuba diving, skydiving, basketball and wrestling, along with the Criminal Profile reputation system. Leonida Atlas lists those details as reported, linked to the coverage, rather than official.",
+      "fields": {"scenes": [
+        {"scene": "Free-roam activities", "note": "Diving, skydiving, sports and fitness reported by press.", "verification": "reported"},
+        {"scene": "Reputation system", "note": "Criminal Profile reported.", "verification": "reported"}
+      ], "watch_url": "https://www.rockstargames.com/VI"}}}
+  },
+  {
+    "key": "launch-trailer", "type": "trailer", "verification": "official", "confidence": "high", "featured": true, "sort": 3, "art": "trailer", "event_date": "2026-10-15",
+    "attributes": {"duration": "1:30", "music": "New single by Justice (reported)"},
+    "sources": {"rs_vi": "Official site lists the Launch Trailer.", "godisageek_launch": "Reports the Justice single and five-weeks-to-launch timing."},
+    "tags": ["trailer", "official"],
+    "t": {"en": {"title": "Launch Trailer", "slug": "launch-trailer",
+      "summary": "A 90-second trailer released on 15 October 2026, about five weeks before launch, captured in-game on PS5.",
+      "body": "The Launch Trailer arrived on 15 October 2026. It follows Jason and Lucia after a robbery goes wrong and is set to a new single by Justice, the duo composing the original score.\n\nRockstar does not number this video. Some outlets call it 'Trailer 3', but Leonida Atlas uses Rockstar's own title.",
+      "fields": {"scenes": [{"scene": "Robbery gone wrong", "note": "Reinforces the official story premise.", "verification": "official"}], "watch_url": "https://www.rockstargames.com/VI"}}}
+  },
+  {
+    "key": "news-release-date", "type": "news", "verification": "official", "confidence": "high", "featured": true, "sort": 0, "art": "news", "event_date": "2026-11-19",
+    "sources": {"rs_vi": "Official site lists 19 November 2026 for PS5 and Xbox Series X|S.", "forbes_preorder": "Pre-order and preload details.", "wiki": "Delay history."},
+    "tags": ["release-date", "official"],
+    "t": {
+      "en": {"title": "GTA VI launches 19 November 2026", "slug": "release-date-november-19-2026",
+        "summary": "Rockstar's official site lists 19 November 2026 for PlayStation 5 and Xbox Series X|S. No PC version has been announced.",
+        "body": "The official release date is 19 November 2026 on PlayStation 5 and Xbox Series X|S. That date was set in November 2025, after an earlier move from fall 2025 to 26 May 2026.\n\nPre-orders opened on 25 June 2026. Reported pricing is $79.99 for the Standard Edition and $99.99 for the Ultimate Edition, and digital preloading is reported to begin on 12 November. Rockstar has not announced a PC version.",
+        "fields": {"key_facts": ["Platforms: PS5, Xbox Series X|S (official)", "Release: 19 November 2026 (official)", "PC: not announced"]}},
+      "tr": {"title": "GTA VI 19 Kasım 2026'da çıkıyor", "slug": "cikis-tarihi-19-kasim-2026",
+        "summary": "Rockstar'ın resmi sitesi PlayStation 5 ve Xbox Series X|S için 19 Kasım 2026 tarihini gösteriyor. PC sürümü duyurulmadı.",
+        "body": "Resmi çıkış tarihi PlayStation 5 ve Xbox Series X|S için 19 Kasım 2026. Bu tarih, 2025 sonbaharından 26 Mayıs 2026'ya yapılan ilk ertelemenin ardından Kasım 2025'te belirlendi.\n\nÖn siparişler 25 Haziran 2026'da açıldı. Bildirilen fiyatlar Standard Edition için 79,99 dolar, Ultimate Edition için 99,99 dolar. Dijital ön yüklemenin 12 Kasım'da başlayacağı bildiriliyor. Rockstar PC sürümü duyurmadı.",
+        "fields": {"key_facts": ["Platformlar: PS5, Xbox Series X|S (resmi)", "Çıkış: 19 Kasım 2026 (resmi)", "PC: duyurulmadı"]}},
+      "es": {"title": "GTA VI sale el 19 de noviembre de 2026", "slug": "lanzamiento-19-noviembre-2026",
+        "summary": "La web oficial de Rockstar indica el 19 de noviembre de 2026 para PlayStation 5 y Xbox Series X|S. No se ha anunciado versión para PC.",
+        "body": "La fecha oficial es el 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X|S. Se fijó en noviembre de 2025, tras un primer cambio de otoño de 2025 al 26 de mayo de 2026.\n\nLas reservas abrieron el 25 de junio de 2026. Los precios publicados son 79,99 dólares por la Standard Edition y 99,99 dólares por la Ultimate Edition, y la precarga digital empezaría el 12 de noviembre. Rockstar no ha anunciado versión para PC.",
+        "fields": {"key_facts": ["Plataformas: PS5, Xbox Series X|S (oficial)", "Lanzamiento: 19 de noviembre de 2026 (oficial)", "PC: no anunciado"]}},
+      "zh-CN": {"title": "《GTA VI》将于 2026 年 11 月 19 日发售", "slug": "release-date-november-19-2026",
+        "summary": "Rockstar 官网显示 PlayStation 5 和 Xbox Series X|S 版发售日为 2026 年 11 月 19 日。尚未公布 PC 版。",
+        "body": "官方发售日为 2026 年 11 月 19 日，登陆 PlayStation 5 和 Xbox Series X|S。该日期于 2025 年 11 月确定，此前游戏已从 2025 年秋季延期至 2026 年 5 月 26 日。\n\n预购于 2026 年 6 月 25 日开启。据报道，标准版售价 79.99 美元，终极版售价 99.99 美元，数字预载将于 11 月 12 日开始。Rockstar 尚未公布 PC 版本。",
+        "fields": {"key_facts": ["平台：PS5、Xbox Series X|S（官方）", "发售：2026 年 11 月 19 日（官方）", "PC：未公布"]}},
+      "it": {"title": "GTA VI esce il 19 novembre 2026", "slug": "uscita-19-novembre-2026",
+        "summary": "Il sito ufficiale di Rockstar indica il 19 novembre 2026 per PlayStation 5 e Xbox Series X|S. Nessuna versione PC annunciata.",
+        "body": "La data ufficiale è il 19 novembre 2026 su PlayStation 5 e Xbox Series X|S. È stata fissata a novembre 2025, dopo un primo rinvio dall'autunno 2025 al 26 maggio 2026.\n\nI preordini sono partiti il 25 giugno 2026. I prezzi riportati sono 79,99 dollari per la Standard Edition e 99,99 dollari per la Ultimate Edition, con precaricamento digitale dal 12 novembre. Rockstar non ha annunciato una versione PC.",
+        "fields": {"key_facts": ["Piattaforme: PS5, Xbox Series X|S (ufficiale)", "Uscita: 19 novembre 2026 (ufficiale)", "PC: non annunciato"]}},
+      "fr": {"title": "GTA VI sort le 19 novembre 2026", "slug": "sortie-19-novembre-2026",
+        "summary": "Le site officiel de Rockstar indique le 19 novembre 2026 sur PlayStation 5 et Xbox Series X|S. Aucune version PC n'est annoncée.",
+        "body": "La date officielle est le 19 novembre 2026 sur PlayStation 5 et Xbox Series X|S. Elle a été fixée en novembre 2025, après un premier report de l'automne 2025 au 26 mai 2026.\n\nLes précommandes ont ouvert le 25 juin 2026. Les prix rapportés sont de 79,99 dollars pour la Standard Edition et 99,99 dollars pour l'Ultimate Edition, avec un préchargement numérique à partir du 12 novembre. Rockstar n'a pas annoncé de version PC.",
+        "fields": {"key_facts": ["Plateformes : PS5, Xbox Series X|S (officiel)", "Sortie : 19 novembre 2026 (officiel)", "PC : non annoncé"]}},
+      "ru": {"title": "GTA VI выходит 19 ноября 2026 года", "slug": "vyhod-19-noyabrya-2026",
+        "summary": "Официальный сайт Rockstar указывает 19 ноября 2026 года для PlayStation 5 и Xbox Series X|S. Версия для ПК не анонсирована.",
+        "body": "Официальная дата выхода — 19 ноября 2026 года на PlayStation 5 и Xbox Series X|S. Она была назначена в ноябре 2025 года после первого переноса с осени 2025 года на 26 мая 2026 года.\n\nПредзаказы открылись 25 июня 2026 года. По сообщениям, Standard Edition стоит 79,99 доллара, Ultimate Edition — 99,99 доллара, а цифровая предзагрузка начнётся 12 ноября. Версию для ПК Rockstar не анонсировала.",
+        "fields": {"key_facts": ["Платформы: PS5, Xbox Series X|S (официально)", "Выход: 19 ноября 2026 года (официально)", "ПК: не анонсирован"]}}
+    }
+  },
+  {"key": "news-dev-confirmed", "type": "news", "verification": "official", "confidence": "high", "sort": 20, "art": "news", "event_date": "2022-02-04",
+    "sources": {"wiki": "Rockstar confirmed development was well underway on 4 February 2022."}, "tags": ["timeline"],
+    "t": {"en": {"title": "Rockstar confirms the next Grand Theft Auto is well underway", "slug": "development-confirmed-2022", "summary": "On 4 February 2022, Rockstar publicly confirmed that development of the next mainline GTA was well underway.", "body": "Rockstar's February 2022 statement was the first official acknowledgement of the project that became Grand Theft Auto VI.", "fields": {}}}},
+  {"key": "news-2022-leak", "type": "news", "verification": "reported", "confidence": "high", "sort": 19, "art": "news", "event_date": "2022-09-18",
+    "sources": {"guardian_leak": "Coverage of the leak and takedowns.", "wiki": "Leak details and arrest."}, "tags": ["timeline", "leak"],
+    "t": {"en": {"title": "Work-in-progress footage leaks", "slug": "development-footage-leak-2022", "summary": "In September 2022, about 90 work-in-progress videos were posted online after a breach of Rockstar's internal systems.", "body": "On 18 September 2022, a user posted around 90 clips of early development footage to a fan forum. Take-Two issued takedowns, and a teenager was arrested days later.\n\nLeonida Atlas does not reproduce or use leaked material.", "fields": {}}}},
+  {"key": "news-delay-may-2026", "type": "news", "verification": "official", "confidence": "high", "sort": 17, "art": "news", "event_date": "2025-05-02",
+    "sources": {"wiki": "Delay to 26 May 2026."}, "tags": ["timeline", "release-date"],
+    "t": {"en": {"title": "Release moves to 26 May 2026", "slug": "delay-to-may-2026", "summary": "In May 2025, Rockstar moved GTA VI from fall 2025 to 26 May 2026.", "body": "The first delay moved the game from its fall 2025 window to 26 May 2026. Trailer 2 followed days later.", "fields": {}}}},
+  {"key": "news-delay-nov-2026", "type": "news", "verification": "official", "confidence": "high", "sort": 16, "art": "news", "event_date": "2025-11-06",
+    "sources": {"wiki": "Delay to 19 November 2026 for additional polish."}, "tags": ["timeline", "release-date"],
+    "t": {"en": {"title": "Release moves to 19 November 2026", "slug": "delay-to-november-2026", "summary": "In November 2025, the release moved again, to 19 November 2026, to allow more polish.", "body": "The second delay set the current date of 19 November 2026. Rockstar cited the need for additional polish.", "fields": {}}}},
+  {"key": "news-preorders", "type": "news", "verification": "reported", "confidence": "high", "sort": 15, "art": "news", "event_date": "2026-06-25",
+    "sources": {"gamebrief_price": "Pricing and pre-order date.", "wiki": "Editions revealed 18 June; pre-orders 25 June.", "bbc_prelaunch": "Pre-launch overview."}, "tags": ["timeline", "editions"],
+    "t": {"en": {"title": "Pre-orders open and editions revealed", "slug": "preorders-open-june-2026", "summary": "Cover art and editions were revealed on 18 June 2026, and pre-orders opened on 25 June.", "body": "Rockstar revealed cover art and special editions on 18 June 2026 and opened pre-orders on 25 June. Reported prices are $79.99 for the Standard Edition and $99.99 for the Ultimate Edition. The official site lists a 'Vintage Vice City Pack' as a pre-order bonus.", "fields": {}}}},
+  {"key": "news-leaks-2026", "type": "news", "verification": "reported", "confidence": "medium", "sort": 14, "art": "news", "event_date": "2026-08-26",
+    "sources": {"wiki": "Rockstar acknowledged August 2026 leaks."}, "tags": ["timeline", "leak"],
+    "t": {"en": {"title": "Rockstar acknowledges August 2026 leaks", "slug": "leaks-acknowledged-august-2026", "summary": "Rockstar acknowledged leaks of map and gameplay material on 26 August 2026, the day before the Extended Look.", "body": "Wikipedia reports that leaked map and footage material spread in August 2026 and that Rockstar acknowledged it on 26 August.\n\nLeonida Atlas does not use leaked material; its map stays schematic until official map art is available.", "fields": {}}}},
+  {"key": "news-album", "type": "news", "verification": "reported", "confidence": "medium", "sort": 13, "art": "news", "event_date": "2026-09-17",
+    "sources": {"wiki": "GTA VI: The Album announced with 34 songs."}, "tags": ["timeline", "music"],
+    "t": {"en": {"title": "GTA VI: The Album announced", "slug": "the-album-announced", "summary": "A 34-track companion album was reported on 17 September 2026.", "body": "Wikipedia reports the announcement of 'GTA VI: The Album', a 34-song companion release.", "fields": {}}}}
+]

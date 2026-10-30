@@ -1,0 +1,247 @@
+[
+  {
+    "key": "jason-duval", "type": "character", "verification": "official", "confidence": "high", "featured": true, "sort": 1,
+    "art": "portrait-blue",
+    "profile": {"full_name": "Jason Duval", "role": "protagonist", "affiliation": "Works with Brian Heder in the Leonida Keys", "first_seen": "Trailer 1 (December 2023)"},
+    "sources": {"rs_vi": "Official character profile (paraphrased).", "yt_t2": "Extended screen time and dialogue in Trailer 2.", "wiki": "Background summary and protagonist status."},
+    "tags": ["protagonist", "leonida-keys"],
+    "t": {
+      "en": {
+        "title": "Jason Duval", "slug": "jason-duval",
+        "summary": "One of the two playable protagonists. A former soldier who drifted into working for drug runners in the Leonida Keys and wants an easy life that keeps getting harder.",
+        "body": "Rockstar's official profile describes Jason as someone who grew up surrounded by grifters and crooks. After a stint in the Army meant to leave his troubled teenage years behind, he ended up in the Leonida Keys doing the work he knows best: running jobs for local drug runners.\n\nThe profile frames meeting Lucia Caminos as a turning point that could be the best or the worst thing to happen to him. Jason lives on property owned by Brian Heder, who lets him stay rent-free in exchange for help with local shakedowns.\n\nThe October 2026 launch trailer puts Jason at the centre of a robbery that goes wrong, which pulls him and Lucia into a criminal conspiracy that stretches across Leonida.",
+        "fields": {
+          "story_role": "Co-protagonist alongside Lucia Caminos.",
+          "known": ["Former Army member (official profile).", "Works for drug runners in the Leonida Keys (official profile).", "Lives on Brian Heder's property and helps with shakedowns (official profile)."],
+          "analysis": [{"text": "The Jason and Lucia partnership is widely compared to a modern Bonnie and Clyde story; Rockstar has used couple-centred marketing but has not used that label itself.", "verification": "theory"}]
+        },
+        "aliases": ["Jason"]
+      },
+      "tr": {
+        "title": "Jason Duval", "slug": "jason-duval",
+        "summary": "Oynanabilir iki ana karakterden biri. Leonida Keys'te uyuşturucu kaçakçıları için çalışmaya başlamış eski bir asker; kolay bir hayat istiyor ama işler giderek zorlaşıyor.",
+        "body": "Rockstar'ın resmi profiline göre Jason dolandırıcılar ve suçlular arasında büyüdü. Sorunlu gençlik yıllarını geride bırakmak için orduda geçirdiği dönemin ardından kendini Leonida Keys'te, en iyi bildiği işi yaparken buldu: yerel uyuşturucu kaçakçıları için çalışmak.\n\nProfil, Lucia Caminos ile tanışmasını hayatındaki en iyi ya da en kötü şey olabilecek bir dönüm noktası olarak anlatıyor. Jason, yerel haraç işlerine yardım etmesi karşılığında onu kira almadan barındıran Brian Heder'in mülkünde yaşıyor.\n\nEkim 2026 çıkış fragmanı, Jason'ı ters giden bir soygunun merkezine yerleştiriyor; bu olay onu ve Lucia'yı Leonida'ya yayılan bir suç komplosuna sürüklüyor.",
+        "fields": {
+          "story_role": "Lucia Caminos ile birlikte ana karakter.",
+          "known": ["Eski asker (resmi profil).", "Leonida Keys'te uyuşturucu kaçakçıları için çalışıyor (resmi profil).", "Brian Heder'in mülkünde yaşıyor ve haraç işlerine yardım ediyor (resmi profil)."],
+          "analysis": [{"text": "Jason ve Lucia ortaklığı sıklıkla modern bir Bonnie ve Clyde hikâyesine benzetiliyor; Rockstar bu ifadeyi kendisi kullanmadı.", "verification": "theory"}]
+        },
+        "aliases": ["Jason"]
+      },
+      "es": {
+        "title": "Jason Duval", "slug": "jason-duval",
+        "summary": "Uno de los dos protagonistas jugables. Un exsoldado que acabó trabajando para narcotraficantes en los Cayos de Leonida y que quiere una vida fácil que no deja de complicarse.",
+        "body": "El perfil oficial de Rockstar describe a Jason como alguien que creció rodeado de estafadores y delincuentes. Tras pasar por el Ejército para dejar atrás una adolescencia conflictiva, terminó en los Cayos de Leonida haciendo lo que mejor sabe: trabajar para narcotraficantes locales.\n\nEl perfil presenta su encuentro con Lucia Caminos como un punto de inflexión que podría ser lo mejor o lo peor que le haya pasado. Jason vive en una propiedad de Brian Heder, que le deja quedarse sin pagar alquiler a cambio de ayudar con extorsiones locales.\n\nEl tráiler de lanzamiento de octubre de 2026 sitúa a Jason en el centro de un robo que sale mal y que los arrastra a él y a Lucia a una conspiración criminal que se extiende por todo Leonida.",
+        "fields": {
+          "story_role": "Coprotagonista junto a Lucia Caminos.",
+          "known": ["Exmiembro del Ejército (perfil oficial).", "Trabaja para narcotraficantes en los Cayos de Leonida (perfil oficial).", "Vive en una propiedad de Brian Heder y ayuda con extorsiones (perfil oficial)."],
+          "analysis": [{"text": "La pareja Jason y Lucia se compara a menudo con un Bonnie y Clyde moderno; Rockstar no ha usado esa etiqueta.", "verification": "theory"}]
+        },
+        "aliases": ["Jason"]
+      },
+      "zh-CN": {
+        "title": "杰森·杜瓦尔", "slug": "jason-duval",
+        "summary": "两位可操控主角之一。曾经从军，后来在莱奥尼达群岛为毒贩跑腿；他想过轻松日子，生活却越来越难。",
+        "body": "根据 Rockstar 官方介绍，杰森在骗子和罪犯身边长大。为了摆脱问题重重的青春期，他曾在军队服役，之后却来到莱奥尼达群岛，干起了自己最熟悉的营生：替当地毒贩办事。\n\n官方介绍把他与露西娅·卡米诺斯的相遇描述为一个转折点——可能是他人生中最好、也可能是最糟的事。杰森住在布莱恩·赫德的房产里，作为免租的交换，他要帮忙处理当地的敲诈勒索。\n\n2026 年 10 月的发售预告片将杰森置于一次失手的抢劫事件中心，这让他和露西娅卷入了一场遍及整个莱奥尼达州的犯罪阴谋。",
+        "fields": {
+          "story_role": "与露西娅·卡米诺斯共同担任主角。",
+          "known": ["曾在军队服役（官方介绍）。", "在莱奥尼达群岛为毒贩工作（官方介绍）。", "住在布莱恩·赫德的房产中并协助敲诈（官方介绍）。"],
+          "analysis": [{"text": "杰森与露西娅的组合常被比作现代版的“雌雄大盗”；Rockstar 本身并未使用这一说法。", "verification": "theory"}]
+        },
+        "aliases": ["Jason Duval", "杰森"]
+      },
+      "it": {
+        "title": "Jason Duval", "slug": "jason-duval",
+        "summary": "Uno dei due protagonisti giocabili. Un ex soldato finito a lavorare per trafficanti di droga nelle Leonida Keys, che vorrebbe una vita facile che si fa sempre più dura.",
+        "body": "Il profilo ufficiale di Rockstar descrive Jason come cresciuto tra truffatori e criminali. Dopo un periodo nell'Esercito per lasciarsi alle spalle un'adolescenza difficile, è finito nelle Leonida Keys a fare ciò che sa fare meglio: lavorare per i trafficanti locali.\n\nIl profilo presenta l'incontro con Lucia Caminos come una svolta che potrebbe essere la cosa migliore o peggiore della sua vita. Jason vive in una proprietà di Brian Heder, che lo ospita senza affitto in cambio di aiuto con le estorsioni locali.\n\nIl trailer di lancio di ottobre 2026 mette Jason al centro di una rapina finita male, che trascina lui e Lucia in una cospirazione criminale estesa a tutta la Leonida.",
+        "fields": {
+          "story_role": "Coprotagonista insieme a Lucia Caminos.",
+          "known": ["Ex militare (profilo ufficiale).", "Lavora per trafficanti nelle Leonida Keys (profilo ufficiale).", "Vive nella proprietà di Brian Heder e aiuta con le estorsioni (profilo ufficiale)."],
+          "analysis": [{"text": "La coppia Jason e Lucia viene spesso paragonata a dei moderni Bonnie e Clyde; Rockstar non ha usato questa definizione.", "verification": "theory"}]
+        },
+        "aliases": ["Jason"]
+      },
+      "fr": {
+        "title": "Jason Duval", "slug": "jason-duval",
+        "summary": "L'un des deux protagonistes jouables. Un ancien soldat qui a fini par travailler pour des trafiquants de drogue dans les Leonida Keys et qui rêve d'une vie facile qui ne cesse de se compliquer.",
+        "body": "Le profil officiel de Rockstar décrit Jason comme ayant grandi entouré d'escrocs et de voyous. Après un passage dans l'armée censé tourner la page d'une adolescence difficile, il s'est retrouvé dans les Leonida Keys à faire ce qu'il connaît le mieux : travailler pour des trafiquants locaux.\n\nLe profil présente sa rencontre avec Lucia Caminos comme un tournant qui pourrait être la meilleure ou la pire chose qui lui soit arrivée. Jason vit sur une propriété de Brian Heder, qui le loge gratuitement en échange d'un coup de main pour des rackets locaux.\n\nLa bande-annonce de lancement d'octobre 2026 place Jason au cœur d'un braquage qui tourne mal, entraînant Lucia et lui dans une conspiration criminelle qui s'étend à tout le Leonida.",
+        "fields": {
+          "story_role": "Co-protagoniste aux côtés de Lucia Caminos.",
+          "known": ["Ancien militaire (profil officiel).", "Travaille pour des trafiquants dans les Leonida Keys (profil officiel).", "Vit chez Brian Heder et l'aide pour des rackets (profil officiel)."],
+          "analysis": [{"text": "Le duo Jason et Lucia est souvent comparé à un Bonnie et Clyde moderne ; Rockstar n'a pas employé ce terme.", "verification": "theory"}]
+        },
+        "aliases": ["Jason"]
+      },
+      "ru": {
+        "title": "Джейсон Дюваль", "slug": "dzhejson-dyuval",
+        "summary": "Один из двух играбельных протагонистов. Бывший военный, который начал работать на наркокурьеров на островах Леонида-Кис. Он хочет лёгкой жизни, но всё становится только сложнее.",
+        "body": "Согласно официальному профилю Rockstar, Джейсон вырос среди мошенников и преступников. После службы в армии, которая должна была помочь ему оставить позади трудную юность, он оказался на Леонида-Кис и занялся тем, что умеет лучше всего: работой на местных наркоторговцев.\n\nВ профиле встреча с Лусией Каминос описывается как поворотный момент, который может стать лучшим или худшим событием в его жизни. Джейсон живёт на участке Брайана Хедера, который разрешает ему не платить аренду в обмен на помощь с местным вымогательством.\n\nВ релизном трейлере октября 2026 года Джейсон оказывается в центре неудачного ограбления, которое втягивает его и Лусию в преступный заговор, охватывающий весь штат Леонида.",
+        "fields": {
+          "story_role": "Один из двух главных героев вместе с Лусией Каминос.",
+          "known": ["Бывший военный (официальный профиль).", "Работает на наркокурьеров на Леонида-Кис (официальный профиль).", "Живёт на участке Брайана Хедера и помогает с вымогательством (официальный профиль)."],
+          "analysis": [{"text": "Дуэт Джейсона и Лусии часто сравнивают с современными Бонни и Клайдом; сама Rockstar такого определения не использовала.", "verification": "theory"}]
+        },
+        "aliases": ["Jason Duval", "Джейсон"]
+      }
+    }
+  },
+  {
+    "key": "lucia-caminos", "type": "character", "verification": "official", "confidence": "high", "featured": true, "sort": 0,
+    "art": "portrait-pink",
+    "profile": {"full_name": "Lucia Caminos", "role": "protagonist", "affiliation": "Formerly incarcerated at Leonida Penitentiary", "first_seen": "Trailer 1 (December 2023)"},
+    "sources": {"rs_vi": "Official character profile (paraphrased).", "yt_t1": "Opens with Lucia in a corrections facility.", "wiki": "First non-optional female protagonist in the series; Liberty City family background."},
+    "tags": ["protagonist", "vice-city"],
+    "t": {
+      "en": {
+        "title": "Lucia Caminos", "slug": "lucia-caminos",
+        "summary": "Co-protagonist and the series' first non-optional female lead in the modern era. Fighting for her family landed her in Leonida Penitentiary; luck got her out.",
+        "body": "Rockstar's profile says Lucia's father taught her to fight as soon as she could walk, and life has been coming at her swinging ever since. Fighting for her family landed her in Leonida Penitentiary, and sheer luck got her out. She has resolved to make only smart moves from here.\n\nTrailer 1 opens with Lucia in custody speaking with a corrections officer, establishing her as the entry point to the story. Her family roots trace back to Liberty City.\n\nShe is the first non-optional female protagonist in the mainline series since its earliest top-down entries, and she shares the story with Jason Duval.",
+        "fields": {
+          "story_role": "Co-protagonist alongside Jason Duval.",
+          "known": ["Learned to fight from her father (official profile).", "Served time at Leonida Penitentiary (official profile).", "Family history connected to Liberty City (official profile)."],
+          "analysis": [{"text": "Community voice-actor identifications circulate online but have not been confirmed by Rockstar.", "verification": "rumor"}]
+        },
+        "aliases": ["Lucia"]
+      },
+      "tr": {
+        "title": "Lucia Caminos", "slug": "lucia-caminos",
+        "summary": "Ortak ana karakter ve serinin modern dönemindeki ilk zorunlu kadın başrolü. Ailesi için savaşması onu Leonida Hapishanesi'ne götürdü; şans eseri kurtuldu.",
+        "body": "Rockstar'ın profiline göre Lucia'nın babası ona yürümeyi öğrenir öğrenmez dövüşmeyi öğretti ve hayat o günden beri ona yumruk savuruyor. Ailesi için savaşması onu Leonida Hapishanesi'ne götürdü; oradan şans eseri çıktı. Artık yalnızca akıllıca hamleler yapmaya kararlı.\n\nİlk fragman, Lucia'nın bir gardiyanla konuştuğu gözaltı sahnesiyle açılıyor ve onu hikâyenin giriş kapısı olarak konumlandırıyor. Ailesinin kökleri Liberty City'ye uzanıyor.\n\nSerinin ilk dönemlerindeki kuşbakışı oyunlardan bu yana zorunlu olarak oynanan ilk kadın ana karakter; hikâyeyi Jason Duval ile paylaşıyor.",
+        "fields": {
+          "story_role": "Jason Duval ile birlikte ana karakter.",
+          "known": ["Dövüşmeyi babasından öğrendi (resmi profil).", "Leonida Hapishanesi'nde yattı (resmi profil).", "Ailesinin geçmişi Liberty City ile bağlantılı (resmi profil)."],
+          "analysis": [{"text": "İnternette dolaşan seslendirme sanatçısı tahminleri Rockstar tarafından doğrulanmadı.", "verification": "rumor"}]
+        },
+        "aliases": ["Lucia"]
+      },
+      "es": {
+        "title": "Lucia Caminos", "slug": "lucia-caminos",
+        "summary": "Coprotagonista y primera protagonista femenina no opcional de la saga en su era moderna. Luchar por su familia la llevó a la Penitenciaría de Leonida; la suerte la sacó de allí.",
+        "body": "Según el perfil de Rockstar, el padre de Lucia le enseñó a pelear en cuanto aprendió a caminar, y la vida no ha dejado de lanzarle golpes desde entonces. Luchar por su familia la llevó a la Penitenciaría de Leonida y pura suerte la sacó. Ahora está decidida a hacer solo movimientos inteligentes.\n\nEl primer tráiler comienza con Lucia bajo custodia hablando con una funcionaria de prisiones, lo que la presenta como la puerta de entrada a la historia. Las raíces de su familia se remontan a Liberty City.\n\nEs la primera protagonista femenina no opcional de la saga principal desde sus primeras entregas con vista cenital, y comparte la historia con Jason Duval.",
+        "fields": {
+          "story_role": "Coprotagonista junto a Jason Duval.",
+          "known": ["Aprendió a pelear de su padre (perfil oficial).", "Cumplió condena en la Penitenciaría de Leonida (perfil oficial).", "Historia familiar vinculada a Liberty City (perfil oficial)."],
+          "analysis": [{"text": "Circulan identificaciones de su actriz de voz, pero Rockstar no las ha confirmado.", "verification": "rumor"}]
+        },
+        "aliases": ["Lucia"]
+      },
+      "zh-CN": {
+        "title": "露西娅·卡米诺斯", "slug": "lucia-caminos",
+        "summary": "共同主角，也是系列现代时期首位非可选的女性主角。为家人而战让她进了莱奥尼达监狱，运气让她得以出狱。",
+        "body": "根据 Rockstar 的介绍，露西娅刚学会走路，父亲就教她打架，从那以后生活便不断向她挥拳。为家人而战让她被关进莱奥尼达监狱，纯粹的运气让她重获自由。从今往后，她决心只走聪明的棋。\n\n第一部预告片以露西娅在羁押中与狱警交谈开场，把她确立为进入故事的切入点。她的家族根源可追溯到自由城。\n\n她是正传系列自早期俯视角作品以来首位非可选的女性主角，与杰森·杜瓦尔共同承担剧情。",
+        "fields": {
+          "story_role": "与杰森·杜瓦尔共同担任主角。",
+          "known": ["从父亲那里学会格斗（官方介绍）。", "曾在莱奥尼达监狱服刑（官方介绍）。", "家族背景与自由城相关（官方介绍）。"],
+          "analysis": [{"text": "网络上流传的配音演员身份尚未得到 Rockstar 证实。", "verification": "rumor"}]
+        },
+        "aliases": ["Lucia Caminos", "露西娅"]
+      },
+      "it": {
+        "title": "Lucia Caminos", "slug": "lucia-caminos",
+        "summary": "Coprotagonista e prima protagonista femminile non opzionale della serie nell'era moderna. Combattere per la sua famiglia l'ha portata nel penitenziario di Leonida; la fortuna l'ha fatta uscire.",
+        "body": "Secondo il profilo di Rockstar, il padre di Lucia le ha insegnato a combattere appena ha imparato a camminare, e da allora la vita non ha smesso di colpirla. Combattere per la sua famiglia l'ha portata nel penitenziario di Leonida e solo la fortuna l'ha fatta uscire. Ora è decisa a fare soltanto mosse intelligenti.\n\nIl primo trailer si apre con Lucia in custodia mentre parla con un'agente penitenziaria, presentandola come porta d'ingresso alla storia. Le radici della sua famiglia risalgono a Liberty City.\n\nÈ la prima protagonista femminile non opzionale della serie principale dai primi capitoli con visuale dall'alto e condivide la storia con Jason Duval.",
+        "fields": {
+          "story_role": "Coprotagonista insieme a Jason Duval.",
+          "known": ["Ha imparato a combattere dal padre (profilo ufficiale).", "Ha scontato una pena nel penitenziario di Leonida (profilo ufficiale).", "Storia familiare legata a Liberty City (profilo ufficiale)."],
+          "analysis": [{"text": "Circolano ipotesi sulla doppiatrice originale, non confermate da Rockstar.", "verification": "rumor"}]
+        },
+        "aliases": ["Lucia"]
+      },
+      "fr": {
+        "title": "Lucia Caminos", "slug": "lucia-caminos",
+        "summary": "Co-protagoniste et première héroïne non optionnelle de la série à l'ère moderne. Se battre pour sa famille l'a menée au pénitencier de Leonida ; la chance l'en a fait sortir.",
+        "body": "D'après le profil de Rockstar, le père de Lucia lui a appris à se battre dès qu'elle a su marcher, et la vie n'a cessé de lui porter des coups depuis. Se battre pour sa famille l'a conduite au pénitencier de Leonida, et c'est par pure chance qu'elle en est sortie. Désormais, elle compte ne faire que des choix malins.\n\nLa première bande-annonce s'ouvre sur Lucia en détention, face à une agente pénitentiaire, ce qui en fait la porte d'entrée de l'histoire. Les racines de sa famille remontent à Liberty City.\n\nElle est la première protagoniste féminine non optionnelle de la série principale depuis les premiers épisodes en vue de dessus, et partage l'histoire avec Jason Duval.",
+        "fields": {
+          "story_role": "Co-protagoniste aux côtés de Jason Duval.",
+          "known": ["A appris à se battre avec son père (profil officiel).", "A purgé une peine au pénitencier de Leonida (profil officiel).", "Histoire familiale liée à Liberty City (profil officiel)."],
+          "analysis": [{"text": "Des identifications de sa comédienne de doublage circulent, sans confirmation de Rockstar.", "verification": "rumor"}]
+        },
+        "aliases": ["Lucia"]
+      },
+      "ru": {
+        "title": "Лусия Каминос", "slug": "lusiya-kaminos",
+        "summary": "Второй протагонист и первая обязательная героиня серии в современную эпоху. Борьба за семью привела её в тюрьму Леониды; выйти ей помогла удача.",
+        "body": "Согласно профилю Rockstar, отец научил Лусию драться, как только она начала ходить, и с тех пор жизнь не перестаёт наносить ей удары. Борьба за семью привела её в тюрьму Леониды, а выбраться оттуда помогла чистая удача. Теперь она намерена делать только разумные ходы.\n\nПервый трейлер начинается с Лусии под стражей в разговоре с надзирательницей — так она становится точкой входа в историю. Корни её семьи уходят в Либерти-Сити.\n\nЭто первая обязательная женская главная героиня основной серии со времён ранних игр с видом сверху. Историю она делит с Джейсоном Дювалем.",
+        "fields": {
+          "story_role": "Одна из двух главных героев вместе с Джейсоном Дювалем.",
+          "known": ["Научилась драться у отца (официальный профиль).", "Отбывала срок в тюрьме Леониды (официальный профиль).", "Семейная история связана с Либерти-Сити (официальный профиль)."],
+          "analysis": [{"text": "В сети обсуждаются предположения об актрисе озвучания, но Rockstar их не подтверждала.", "verification": "rumor"}]
+        },
+        "aliases": ["Lucia Caminos", "Лусия"]
+      }
+    }
+  },
+  {
+    "key": "cal-hampton", "type": "character", "verification": "official", "confidence": "high", "sort": 2, "art": "portrait-violet",
+    "profile": {"full_name": "Cal Hampton", "role": "supporting", "affiliation": "Friend of Jason; associate of Brian Heder", "first_seen": "Trailer 2 (May 2025)"},
+    "sources": {"rs_vi": "Official supporting-cast profile (paraphrased).", "yt_t2": "Appears in Trailer 2."},
+    "tags": ["supporting-cast", "leonida-keys"],
+    "t": {"en": {
+      "title": "Cal Hampton", "slug": "cal-hampton",
+      "summary": "Jason's friend and fellow associate of Brian Heder: a homebody with a computer, a few beers and a steady supply of theories about what powerful people are hiding.",
+      "body": "Cal was introduced with the May 2025 supporting-cast reveal. Rockstar presents him as Jason's friend and another member of Brian Heder's orbit in the Keys, someone who feels most useful at home behind a screen.\n\nHis profile leans into a conspiracy-minded personality: he keeps an ear on Coast Guard radio traffic and is suspicious of government, big tech and other powerful institutions, though he mostly keeps those theories to himself.",
+      "fields": {"story_role": "Supporting character connected to Jason and Brian.", "known": ["Friend of Jason Duval (official).", "Associate of Brian Heder (official).", "Monitors Coast Guard radio (official)."]}
+    }}
+  },
+  {
+    "key": "boobie-ike", "type": "character", "verification": "official", "confidence": "high", "sort": 3, "art": "portrait-orange",
+    "profile": {"full_name": "Boobie Ike", "role": "supporting", "affiliation": "Vice City businessman", "first_seen": "Trailer 2 (May 2025)"},
+    "sources": {"rs_vi": "Official supporting-cast profile (paraphrased)."},
+    "tags": ["supporting-cast", "vice-city"],
+    "t": {"en": {
+      "title": "Boobie Ike", "slug": "boobie-ike",
+      "summary": "A Vice City local legend turned businessman, with interests in real estate, a strip club and a recording studio.",
+      "body": "Rockstar introduces Boobie as a Vice City figure who turned street credibility into a business portfolio: property, a strip club and a recording studio.\n\nHis studio links him to Dre'Quan Priest and the rap duo Real Dimez, which makes him one of the clearest connections between the game's music-industry storyline and its criminal underworld.",
+      "fields": {"story_role": "Supporting character in Vice City's music and nightlife scene.", "known": ["Owns property, a strip club and a recording studio (official)."]}
+    }}
+  },
+  {
+    "key": "drequan-priest", "type": "character", "verification": "official", "confidence": "high", "sort": 4, "art": "portrait-violet",
+    "profile": {"full_name": "Dre'Quan Priest", "role": "supporting", "affiliation": "Music manager for Real Dimez", "first_seen": "Trailer 2 (May 2025)"},
+    "sources": {"rs_vi": "Official supporting-cast profile (paraphrased)."},
+    "tags": ["supporting-cast", "vice-city", "music"],
+    "t": {"en": {
+      "title": "Dre'Quan Priest", "slug": "drequan-priest",
+      "summary": "A hustler with ambitions beyond the streets who signed the rap duo Real Dimez and wants to build a music business.",
+      "body": "Rockstar's profile presents Dre'Quan as more of a hustler than a gangster, someone whose goals extend past street-level crime into the music industry.\n\nHe signed Real Dimez and works within the same Vice City nightlife and recording circles as Boobie Ike.",
+      "fields": {"story_role": "Supporting character tied to the music-industry storyline.", "known": ["Signed Real Dimez (official)."]}
+    }}
+  },
+  {
+    "key": "real-dimez", "type": "character", "verification": "official", "confidence": "high", "sort": 5, "art": "portrait-pink",
+    "profile": {"full_name": "Bae-Luxe and Roxy", "role": "supporting", "affiliation": "Rap duo signed by Dre'Quan Priest", "first_seen": "Trailer 2 (May 2025)"},
+    "sources": {"rs_vi": "Official supporting-cast profile (paraphrased).", "wiki": "Lists Bae-Luxe and Roxy as Real Dimez."},
+    "tags": ["supporting-cast", "vice-city", "music"],
+    "t": {"en": {
+      "title": "Real Dimez", "slug": "real-dimez",
+      "summary": "Bae-Luxe and Roxy, longtime friends turned rap duo, who moved from hustling to recording after signing with Dre'Quan Priest.",
+      "body": "Real Dimez is a duo made up of Bae-Luxe and Roxy. Rockstar presents them as friends who went from street hustling to making music, and who are signed to Dre'Quan Priest.\n\nThey are part of the game's portrait of Vice City's social-media-driven music scene.",
+      "fields": {"story_role": "Supporting characters in the Vice City music storyline.", "known": ["Duo of Bae-Luxe and Roxy (official).", "Signed to Dre'Quan Priest (official)."]},
+      "aliases": ["Bae-Luxe", "Roxy"]
+    }}
+  },
+  {
+    "key": "raul-bautista", "type": "character", "verification": "official", "confidence": "high", "sort": 6, "art": "portrait-orange",
+    "profile": {"full_name": "Raul Bautista", "role": "supporting", "affiliation": "Bank robber and crew recruiter", "first_seen": "Trailer 2 (May 2025)"},
+    "sources": {"rs_vi": "Official supporting-cast profile (paraphrased)."},
+    "tags": ["supporting-cast", "heists"],
+    "t": {"en": {
+      "title": "Raul Bautista", "slug": "raul-bautista",
+      "summary": "A confident, seasoned bank robber who is always looking for new talent willing to take big risks for big rewards.",
+      "body": "Rockstar describes Raul as a charming, experienced bank robber who recruits people prepared to take serious risks.\n\nGiven the story premise of a robbery that goes wrong, Raul is widely expected to be involved in heist-related story content. That expectation is an inference, not a confirmed story detail.",
+      "fields": {"story_role": "Supporting character connected to robberies.", "known": ["Experienced bank robber who recruits crews (official)."], "analysis": [{"text": "Raul is expected to give heist-style missions; unconfirmed until release.", "verification": "theory"}]}
+    }}
+  },
+  {
+    "key": "brian-heder", "type": "character", "verification": "official", "confidence": "high", "sort": 7, "art": "portrait-blue",
+    "profile": {"full_name": "Brian Heder", "role": "supporting", "affiliation": "Veteran drug runner in the Leonida Keys", "voice_actor": "Stephen Root", "voice_actor_verification": "reported", "first_seen": "Trailer 2 (May 2025)"},
+    "sources": {"rs_vi": "Official supporting-cast profile (paraphrased).", "wiki": "Lists Stephen Root as Brian's voice actor (reported)."},
+    "tags": ["supporting-cast", "leonida-keys"],
+    "t": {"en": {
+      "title": "Brian Heder", "slug": "brian-heder",
+      "summary": "An old-school drug runner from the Keys' smuggling heyday who still moves product through his boat yard and gives Jason free rent in exchange for help.",
+      "body": "Rockstar's profile describes Brian as a holdover from the golden age of smuggling in the Leonida Keys, still running his operation out of a boat yard.\n\nHe lets Jason Duval live rent-free on one of his properties as long as Jason helps out with local shakedowns, which makes Brian a key part of Jason's starting situation.\n\nWikipedia lists Stephen Root as Brian's voice actor; Leonida Atlas records this as reported until it appears in official credits.",
+      "fields": {"story_role": "Jason's landlord and employer in the Keys.", "known": ["Runs a smuggling operation from a boat yard (official).", "Gives Jason free rent in exchange for shakedown work (official)."]}
+    }}
+  }
+]
