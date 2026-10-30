@@ -20,6 +20,11 @@ RUN npm run build
 # 3) Runtime: FrankenPHP (Caddy + PHP 8.4)
 FROM dunglas/frankenphp:1-php8.4
 RUN install-php-extensions pdo_sqlite gd intl zip opcache pcntl bcmath
+# The base image grants frankenphp a file capability (to bind ports < 1024). Hosts such as Render
+# forbid file capabilities ("Operation not permitted"), and we listen on $PORT (> 1024), so drop it.
+RUN apt-get update && apt-get install -y --no-install-recommends libcap2-bin \
+    && (setcap -r /usr/local/bin/frankenphp || true) \
+    && rm -rf /var/lib/apt/lists/*
 COPY docker/php.ini /usr/local/etc/php/conf.d/zz-atlas.ini
 WORKDIR /app
 COPY . .
